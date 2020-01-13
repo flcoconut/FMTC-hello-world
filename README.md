@@ -1,2 +1,5 @@
 # FMTC-hello-world
-Just another repository
+
+Bob is my pet gator that lives just off my seawall
+
+End of story
